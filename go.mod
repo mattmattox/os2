@@ -33,7 +33,7 @@ replace (
 
 require (
 	github.com/google/certificate-transparency-go v1.1.2
-	github.com/google/go-attestation v0.3.2
+	github.com/google/go-attestation v0.4.0
 	github.com/gorilla/websocket v1.4.2
 	github.com/mattn/go-isatty v0.0.12
 	github.com/pin/tftp v2.1.0+incompatible // indirect
