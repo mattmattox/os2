@@ -44,7 +44,7 @@ require (
 	github.com/rancher/rancherd v0.0.1-alpha9.0.20211028172625-bdf5642d62d5
 	github.com/rancher/steve v0.0.0-20210922195510-7224dc21013d
 	github.com/rancher/system-upgrade-controller/pkg/apis v0.0.0-20210929162341-5e6e996d9486
-	github.com/rancher/wrangler v0.8.7
+	github.com/rancher/wrangler v0.8.11
 	github.com/sirupsen/logrus v1.8.1
 	github.com/tredoe/osutil v1.0.5
 	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97
